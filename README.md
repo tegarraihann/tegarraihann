@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegarraihann&label=Profile%20views&color=0e75b6&style=flat" alt="tegarraihann" /> </p>
 
-- 🔭 I’m currently working on [Capaian Kinerja Karyawan in Badan Pusat Statistik Provinsi Riau](https://github.com/tegarraihann/Capkin)
+- 🔭 I’m currently working on [Sistem Informasi Manajemen Aset UPT Pelatihan & Penyuluhan Pertanian Provinsi Riau](akmalicode.site)
 
 - 🌱 I’m currently learning **Laravel, Vue Js, Bootstrap, Tailwind, Python, Github**
 
