@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Laravel, Vue Js, Bootstrap, Tailwind, Python, Github**
 
-- 🤝 I’m looking for help with [Stack Overflow](https://stackoverflow.com/)
+- 🤝 I’m looking for help with [AI AGENTS](https://chatgpt.com/)
 
-- 👨‍💻 All of my projects are available at [https://tegarraihann.github.io/portofolio/](https://tegarraihann.github.io/portofolio/)
+- 👨‍💻 All of my projects are available at [https://tegarraihanakmali.livedemo.web.id/](https://tegarraihanakmali.livedemo.web.id/)
 
 - 📝 I regularly write articles on [https://tegarraihanakmali.livedemo.web.id/](https://tegarraihanakmali.livedemo.web.id/)
 
