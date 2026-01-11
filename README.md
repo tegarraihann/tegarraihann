@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegarraihann&label=Profile%20views&color=0e75b6&style=flat" alt="tegarraihann" /> </p>
 
-- 🔭 I’m currently working on [Sistem ERP Eshaka Wijaya Logistics & Sistem Point Of Sales Progressive Webb App](https://akmalicode.site/login)
+- 🔭 I’m currently working on [Sistem ERP Eshaka Wijaya Logistics & Sistem Point Of Sales Progressive Webb App](https://tegarraihanakmali.livedemo.web.id/)
 
 - 🌱 I’m currently learning **Laravel, Vue Js, Bootstrap, Tailwind, Python, Github**
 
