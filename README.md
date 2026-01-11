@@ -2,13 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=0236F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tegar" alt="Typing SVG" /></a>
 </h1>
 </h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegarraihann&label=Profile%20views&color=0e75b6&style=flat" alt="tegarraihann" /> </p>
 
-- 🔭 I’m currently working on [Sistem Informasi Manajemen Aset UPT Pelatihan & Penyuluhan Pertanian Provinsi Riau](https://akmalicode.site/login)
+- 🔭 I’m currently working on [Sistem ERP Eshaka Wijaya Logistics & Sistem Point Of Sales Progressive Webb App](https://akmalicode.site/login)
 
 - 🌱 I’m currently learning **Laravel, Vue Js, Bootstrap, Tailwind, Python, Github**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tegarraihann.github.io/portofolio/](https://tegarraihann.github.io/portofolio/)
 
-- 📝 I regularly write articles on [https://iqprima.tech/](https://iqprima.tech/)
+- 📝 I regularly write articles on [https://tegarraihanakmali.livedemo.web.id/](https://tegarraihanakmali.livedemo.web.id/)
 
 - 📫 How to reach me **https://www.instagram.com/tegarraihann.a**
 
