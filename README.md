@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegarraihann&label=Profile%20views&color=0e75b6&style=flat" alt="tegarraihann" /> </p>
 
-- 🔭 I’m currently working on [Sistem ERP Eshaka Wijaya Logistics & Sistem Point Of Sales Progressive Webb App](https://tegarraihanakmali.livedemo.web.id/)
+- 🔭 I’m currently working on [Web-Based Point of Sale System with PWA Technology](https://tegarraihanakmali.livedemo.web.id/)
 
-- 🌱 I’m currently learning **Laravel, Vue Js, Bootstrap, Tailwind, Python, Github**
+- 🌱 I’m currently learning **Laravel, Filament, Vue Js, Bootstrap, Tailwind, Python, Github**
 
 - 🤝 I’m looking for help with [AI AGENTS](https://chatgpt.com/)
 
