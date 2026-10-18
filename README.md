@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegarraihann&label=Profile%20views&color=0e75b6&style=flat" alt="tegarraihann" /> </p>
 
-- 🔭 I’m currently working on [Web-Based Point of Sale System with PWA Technology](https://tegarraihanakmali.livedemo.web.id/)
+- 🔭 I’m currently working on [CMS TIM MINI SOCCER - COSMIC](https://tegarraihanakmali.site/)
 
 - 🌱 I’m currently learning **Laravel, Filament, Vue Js, Bootstrap, Tailwind, Python, Github**
 
